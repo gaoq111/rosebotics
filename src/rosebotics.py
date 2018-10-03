@@ -1,6 +1,6 @@
 """
   Capstone Project.  Code shared by the team.
-  Team members:  PUT_YOUR_NAMES_HERE.
+  Team members:  Harry Chen (Xiaolong), Bert Gao(Qiyue), Luis Ye (Hengqi).
   Fall term, 2018-2019.
 """
 
