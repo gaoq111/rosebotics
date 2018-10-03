@@ -29,7 +29,7 @@ class Snatch3rRobot(object):
     def turn(self,angle,left_wheel_duty_cycle_percent,right_wheel_duty_cycle_percent=0):
         while self.left_wheel.get_degrees_spun() & self.right_wheel.get_degrees_spun() <= angle:
             self.go(left_wheel_duty_cycle_percent,right_wheel_duty_cycle_percent)
-            
+
 
 
 class Wheel(object):
